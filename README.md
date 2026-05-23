@@ -89,4 +89,4 @@ será gerado no diretório atual. Copie-o para
 
 ## Vídeo demonstrativo
 
-> [Inserir hyperlink]
+> Acesse [aqui](https://drive.google.com/file/d/1QoPpqOmEGjQ4dgC0SpbZ0XcjbMnQ9VtB/view?usp=sharing) o vídeo demonstrativo.
