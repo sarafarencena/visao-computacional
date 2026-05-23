@@ -1,4 +1,4 @@
-# Documentação Técnica — Turtle Draw
+# Documentação Técnica: Turtle Draw
 
 ## Sumário
 
