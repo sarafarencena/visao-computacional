@@ -83,7 +83,7 @@ será gerado no diretório atual. Copie-o para
 
 ## Documentação técnica
 
-> [Inserir hyperlink]
+> Acesse [aqui](https://github.com/sarafarencena/visao-computacional/blob/main/document/document.md) a documentação técnica detalhada do projeto.
 
 ---
 
